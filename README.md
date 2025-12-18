@@ -57,12 +57,8 @@ This project performs **Exploratory Data Analysis (EDA)** on the Telco Customer 
 
 ---
 
-## Business Recommendations
+## Recommendations
 - Bundle security and technical support services with internet plans.
 - Design targeted retention strategies for Fiber optic customers.
 - Promote bundled service subscriptions through discounts and offers.
 - Monitor high-risk payment methods and introduce incentive-based retention plans.
-
----
-
-## Project Structure
